@@ -4,5 +4,6 @@ package doingon;
 		public static void main(String[] args) {
 			System.out.println("doing on now!!");
 			System.out.println("doing on now//shin//edit1");
+			System.out.println("doing on now//shin//edit2");
 		}
 }
